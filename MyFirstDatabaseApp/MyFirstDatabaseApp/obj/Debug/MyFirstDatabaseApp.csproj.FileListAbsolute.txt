@@ -1,0 +1,9 @@
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\bin\Debug\MyFirstDatabaseApp.exe.config
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\bin\Debug\MyFirstDatabaseApp.exe
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\bin\Debug\MyFirstDatabaseApp.pdb
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\obj\Debug\MyFirstDatabaseApp.csprojAssemblyReference.cache
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\obj\Debug\MyFirstDatabaseApp.csproj.CoreCompileInputs.cache
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\obj\Debug\MyFirstDatabaseApp.exe
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\obj\Debug\MyFirstDatabaseApp.pdb
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\bin\Debug\Employee.mdf
+G:\C# Programming\MyFirstDatabaseApp\MyFirstDatabaseApp\bin\Debug\Employee_log.ldf

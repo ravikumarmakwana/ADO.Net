@@ -1,0 +1,7 @@
+G:\C# Programming\ADOWithDisconnectedClasses\MultipleTables\bin\Debug\MultipleTables.exe.config
+G:\C# Programming\ADOWithDisconnectedClasses\MultipleTables\bin\Debug\MultipleTables.exe
+G:\C# Programming\ADOWithDisconnectedClasses\MultipleTables\bin\Debug\MultipleTables.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\MultipleTables\obj\Debug\MultipleTables.csprojAssemblyReference.cache
+G:\C# Programming\ADOWithDisconnectedClasses\MultipleTables\obj\Debug\MultipleTables.csproj.CoreCompileInputs.cache
+G:\C# Programming\ADOWithDisconnectedClasses\MultipleTables\obj\Debug\MultipleTables.exe
+G:\C# Programming\ADOWithDisconnectedClasses\MultipleTables\obj\Debug\MultipleTables.pdb

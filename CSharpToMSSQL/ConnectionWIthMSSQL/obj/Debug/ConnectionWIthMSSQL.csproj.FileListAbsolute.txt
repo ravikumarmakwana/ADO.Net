@@ -1,0 +1,7 @@
+G:\C# Programming\CSharpToMSSQL\ConnectionWIthMSSQL\bin\Debug\ConnectionWIthMSSQL.exe.config
+G:\C# Programming\CSharpToMSSQL\ConnectionWIthMSSQL\bin\Debug\ConnectionWIthMSSQL.exe
+G:\C# Programming\CSharpToMSSQL\ConnectionWIthMSSQL\bin\Debug\ConnectionWIthMSSQL.pdb
+G:\C# Programming\CSharpToMSSQL\ConnectionWIthMSSQL\obj\Debug\ConnectionWIthMSSQL.csprojAssemblyReference.cache
+G:\C# Programming\CSharpToMSSQL\ConnectionWIthMSSQL\obj\Debug\ConnectionWIthMSSQL.csproj.CoreCompileInputs.cache
+G:\C# Programming\CSharpToMSSQL\ConnectionWIthMSSQL\obj\Debug\ConnectionWIthMSSQL.exe
+G:\C# Programming\CSharpToMSSQL\ConnectionWIthMSSQL\obj\Debug\ConnectionWIthMSSQL.pdb

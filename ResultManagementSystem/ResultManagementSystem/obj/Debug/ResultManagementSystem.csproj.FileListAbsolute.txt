@@ -1,0 +1,7 @@
+G:\C# Programming\ResultManagementSystem\ResultManagementSystem\bin\Debug\ResultManagementSystem.exe.config
+G:\C# Programming\ResultManagementSystem\ResultManagementSystem\bin\Debug\ResultManagementSystem.exe
+G:\C# Programming\ResultManagementSystem\ResultManagementSystem\bin\Debug\ResultManagementSystem.pdb
+G:\C# Programming\ResultManagementSystem\ResultManagementSystem\obj\Debug\ResultManagementSystem.csprojAssemblyReference.cache
+G:\C# Programming\ResultManagementSystem\ResultManagementSystem\obj\Debug\ResultManagementSystem.csproj.CoreCompileInputs.cache
+G:\C# Programming\ResultManagementSystem\ResultManagementSystem\obj\Debug\ResultManagementSystem.exe
+G:\C# Programming\ResultManagementSystem\ResultManagementSystem\obj\Debug\ResultManagementSystem.pdb

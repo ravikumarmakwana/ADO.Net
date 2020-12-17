@@ -1,0 +1,7 @@
+G:\C# Programming\ADOWithDisconnectedClasses\ADOWithDisconnectedClasses\obj\Debug\ADOWithDisconnectedClasses.csprojAssemblyReference.cache
+G:\C# Programming\ADOWithDisconnectedClasses\ADOWithDisconnectedClasses\obj\Debug\ADOWithDisconnectedClasses.csproj.CoreCompileInputs.cache
+G:\C# Programming\ADOWithDisconnectedClasses\ADOWithDisconnectedClasses\bin\Debug\ADOWithDisconnectedClasses.exe.config
+G:\C# Programming\ADOWithDisconnectedClasses\ADOWithDisconnectedClasses\bin\Debug\ADOWithDisconnectedClasses.exe
+G:\C# Programming\ADOWithDisconnectedClasses\ADOWithDisconnectedClasses\bin\Debug\ADOWithDisconnectedClasses.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\ADOWithDisconnectedClasses\obj\Debug\ADOWithDisconnectedClasses.exe
+G:\C# Programming\ADOWithDisconnectedClasses\ADOWithDisconnectedClasses\obj\Debug\ADOWithDisconnectedClasses.pdb

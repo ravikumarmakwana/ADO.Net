@@ -1,0 +1,7 @@
+G:\C# Programming\ADOWithDisconnectedClasses\BuilderClassForADO\bin\Debug\BuilderClassForADO.exe.config
+G:\C# Programming\ADOWithDisconnectedClasses\BuilderClassForADO\bin\Debug\BuilderClassForADO.exe
+G:\C# Programming\ADOWithDisconnectedClasses\BuilderClassForADO\bin\Debug\BuilderClassForADO.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\BuilderClassForADO\obj\Debug\BuilderClassForADO.csproj.CoreCompileInputs.cache
+G:\C# Programming\ADOWithDisconnectedClasses\BuilderClassForADO\obj\Debug\BuilderClassForADO.exe
+G:\C# Programming\ADOWithDisconnectedClasses\BuilderClassForADO\obj\Debug\BuilderClassForADO.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\BuilderClassForADO\obj\Debug\BuilderClassForADO.csprojAssemblyReference.cache

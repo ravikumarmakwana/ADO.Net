@@ -1,0 +1,7 @@
+G:\C# Programming\ADOWithDisconnectedClasses\DataViewDemo\bin\Debug\DataViewDemo.exe.config
+G:\C# Programming\ADOWithDisconnectedClasses\DataViewDemo\bin\Debug\DataViewDemo.exe
+G:\C# Programming\ADOWithDisconnectedClasses\DataViewDemo\bin\Debug\DataViewDemo.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\DataViewDemo\obj\Debug\DataViewDemo.csproj.CoreCompileInputs.cache
+G:\C# Programming\ADOWithDisconnectedClasses\DataViewDemo\obj\Debug\DataViewDemo.exe
+G:\C# Programming\ADOWithDisconnectedClasses\DataViewDemo\obj\Debug\DataViewDemo.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\DataViewDemo\obj\Debug\DataViewDemo.csprojAssemblyReference.cache

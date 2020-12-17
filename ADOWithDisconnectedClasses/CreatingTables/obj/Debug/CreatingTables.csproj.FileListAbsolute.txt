@@ -1,0 +1,7 @@
+G:\C# Programming\ADOWithDisconnectedClasses\CreatingTables\bin\Debug\CreatingTables.exe.config
+G:\C# Programming\ADOWithDisconnectedClasses\CreatingTables\bin\Debug\CreatingTables.exe
+G:\C# Programming\ADOWithDisconnectedClasses\CreatingTables\bin\Debug\CreatingTables.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\CreatingTables\obj\Debug\CreatingTables.csproj.CoreCompileInputs.cache
+G:\C# Programming\ADOWithDisconnectedClasses\CreatingTables\obj\Debug\CreatingTables.exe
+G:\C# Programming\ADOWithDisconnectedClasses\CreatingTables\obj\Debug\CreatingTables.pdb
+G:\C# Programming\ADOWithDisconnectedClasses\CreatingTables\obj\Debug\CreatingTables.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+G:\C# Programming\MyUi\MyUi\bin\Debug\MyUi.exe.config
+G:\C# Programming\MyUi\MyUi\bin\Debug\MyUi.exe
+G:\C# Programming\MyUi\MyUi\bin\Debug\MyUi.pdb
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.Form1.resources
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.Properties.Resources.resources
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.csproj.GenerateResource.cache
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.csproj.CoreCompileInputs.cache
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.exe
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.pdb
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.UserControl1.resources
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.UserControl2.resources
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.UserControl3.resources
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.UserControl4.resources
+G:\C# Programming\MyUi\MyUi\obj\Debug\MyUi.UserControl5.resources

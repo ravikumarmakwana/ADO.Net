@@ -1,0 +1,7 @@
+C:\Users\Ravikumar Makwana\Desktop\Connection\Insert\bin\Debug\Insert.exe.config
+C:\Users\Ravikumar Makwana\Desktop\Connection\Insert\bin\Debug\Insert.exe
+C:\Users\Ravikumar Makwana\Desktop\Connection\Insert\bin\Debug\Insert.pdb
+C:\Users\Ravikumar Makwana\Desktop\Connection\Insert\obj\Debug\Insert.csproj.CoreCompileInputs.cache
+C:\Users\Ravikumar Makwana\Desktop\Connection\Insert\obj\Debug\Insert.exe
+C:\Users\Ravikumar Makwana\Desktop\Connection\Insert\obj\Debug\Insert.pdb
+C:\Users\Ravikumar Makwana\Desktop\Connection\Insert\obj\Debug\Insert.csprojAssemblyReference.cache

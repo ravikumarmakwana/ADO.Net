@@ -1,0 +1,13 @@
+G:\C# Programming\LoginModule\LoginModule\bin\Debug\LoginModule.exe.config
+G:\C# Programming\LoginModule\LoginModule\bin\Debug\LoginModule.exe
+G:\C# Programming\LoginModule\LoginModule\bin\Debug\LoginModule.pdb
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.Form1.resources
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.Properties.Resources.resources
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.csproj.GenerateResource.cache
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.csproj.CoreCompileInputs.cache
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.exe
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.pdb
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.UserControl1.resources
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.UserControl2.resources
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.UserControl3.resources
+G:\C# Programming\LoginModule\LoginModule\obj\Debug\LoginModule.UserControl4.resources

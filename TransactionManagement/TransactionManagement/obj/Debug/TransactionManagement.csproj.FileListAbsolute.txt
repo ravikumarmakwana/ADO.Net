@@ -1,0 +1,7 @@
+G:\C# Programming\TransactionManagement\TransactionManagement\bin\Debug\TransactionManagement.exe.config
+G:\C# Programming\TransactionManagement\TransactionManagement\bin\Debug\TransactionManagement.exe
+G:\C# Programming\TransactionManagement\TransactionManagement\bin\Debug\TransactionManagement.pdb
+G:\C# Programming\TransactionManagement\TransactionManagement\obj\Debug\TransactionManagement.csprojAssemblyReference.cache
+G:\C# Programming\TransactionManagement\TransactionManagement\obj\Debug\TransactionManagement.csproj.CoreCompileInputs.cache
+G:\C# Programming\TransactionManagement\TransactionManagement\obj\Debug\TransactionManagement.exe
+G:\C# Programming\TransactionManagement\TransactionManagement\obj\Debug\TransactionManagement.pdb

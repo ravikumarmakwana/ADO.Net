@@ -1,0 +1,7 @@
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\DisconnetedADODotNet\bin\Debug\DisconnetedADODotNet.exe.config
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\DisconnetedADODotNet\bin\Debug\DisconnetedADODotNet.exe
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\DisconnetedADODotNet\bin\Debug\DisconnetedADODotNet.pdb
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\DisconnetedADODotNet\obj\Debug\Display.csprojAssemblyReference.cache
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\DisconnetedADODotNet\obj\Debug\Display.csproj.CoreCompileInputs.cache
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\DisconnetedADODotNet\obj\Debug\DisconnetedADODotNet.exe
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\DisconnetedADODotNet\obj\Debug\DisconnetedADODotNet.pdb

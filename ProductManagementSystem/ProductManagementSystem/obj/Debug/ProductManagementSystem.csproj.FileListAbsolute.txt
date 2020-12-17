@@ -1,0 +1,9 @@
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\bin\Debug\Products.mdf
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\bin\Debug\Products_log.ldf
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe.config
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.pdb
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csprojAssemblyReference.cache
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csproj.CoreCompileInputs.cache
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.exe
+G:\C# Programming\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.pdb

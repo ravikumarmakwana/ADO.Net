@@ -1,0 +1,6 @@
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Update\bin\Debug\Update.exe.config
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Update\bin\Debug\Update.exe
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Update\bin\Debug\Update.pdb
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Update\obj\Debug\Update.csproj.CoreCompileInputs.cache
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Update\obj\Debug\Update.exe
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Update\obj\Debug\Update.pdb

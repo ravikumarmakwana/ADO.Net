@@ -1,0 +1,10 @@
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\bin\Debug\MyFirstUIApplication.exe.config
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\bin\Debug\MyFirstUIApplication.exe
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\bin\Debug\MyFirstUIApplication.pdb
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\obj\Debug\MyFirstUIApplication.csprojAssemblyReference.cache
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\obj\Debug\MyFirstUIApplication.Form1.resources
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\obj\Debug\MyFirstUIApplication.Properties.Resources.resources
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\obj\Debug\MyFirstUIApplication.csproj.GenerateResource.cache
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\obj\Debug\MyFirstUIApplication.csproj.CoreCompileInputs.cache
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\obj\Debug\MyFirstUIApplication.exe
+G:\C# Programming\MyFirstUIApplication\MyFirstUIApplication\obj\Debug\MyFirstUIApplication.pdb

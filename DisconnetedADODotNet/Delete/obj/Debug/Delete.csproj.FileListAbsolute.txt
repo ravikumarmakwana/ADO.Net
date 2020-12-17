@@ -1,0 +1,6 @@
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Delete\bin\Debug\Delete.exe.config
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Delete\bin\Debug\Delete.exe
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Delete\bin\Debug\Delete.pdb
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Delete\obj\Debug\Delete.csproj.CoreCompileInputs.cache
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Delete\obj\Debug\Delete.exe
+C:\Users\Ravikumar Makwana\Desktop\DisconnetedADODotNet\Delete\obj\Debug\Delete.pdb

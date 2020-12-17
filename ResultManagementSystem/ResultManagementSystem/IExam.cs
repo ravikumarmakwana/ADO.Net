@@ -1,0 +1,5 @@
+﻿namespace ResultManagementSystem
+{
+    interface IExam
+    { }
+}
